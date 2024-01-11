@@ -1,1 +1,1 @@
-
+#Build a simplified version of Facebook, focusing on the user interface and interaction components. The clone won't have server-side functionality or a backend database; instead, it will utilize React for the front end and Material-UI for a polished and responsive design.
